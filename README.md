@@ -23,6 +23,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 # Demo
 [Chirper-Vue.MiguelEmmara.Me](https://chirper-vue.miguelemmara.me/)
+```
+Email: admin@admin.com
+Password: admin123
+```
 
 ## License
 
